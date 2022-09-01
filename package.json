@@ -1,0 +1,31 @@
+{
+  "name": "javascript-challenges",
+  "version": "1.0.0",
+  "description": "javascript-challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/javascript-challenges.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Oscar Barajas <oscar@platzi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/javascript-challenges/issues"
+  },
+  "homepage": "https://github.com/gndx/javascript-challenges#readme",
+  "devDependencies": {
+    "jest": "29.0.1"
+  },
+  "jest": {
+    "verbose": true,
+    "transformIgnorePatterns": [
+      "<rootDir>/(node_modules)/"
+    ]
+  }
+}
