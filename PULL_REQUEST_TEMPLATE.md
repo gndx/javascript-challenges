@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Ana Sofia Pedroza
+Usuario Platzi: Ana Sofia Pedroza 
 
 ## Reto:
 
