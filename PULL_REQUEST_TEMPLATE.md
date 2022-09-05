@@ -7,4 +7,4 @@ Usuario Platzi: https://platzi.com/p/dani.olg/
 
 - [x] Primer problema
 - [x] Segundo problema
-- [ ] Tercer problema
+- [x] Tercer problema
