@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Jeanpierre Echevarria
+Usuario Platzi: jeanpiereche
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [Y] Primer problema
+- [Y] Segundo problema
+- [Y] Tercer problema
