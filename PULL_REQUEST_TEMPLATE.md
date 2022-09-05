@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Daniel Olguin Martinez
+Usuario Platzi: https://platzi.com/p/dani.olg/
 
 ## Reto:
 
-- [ ] Primer problema
+- [*] Primer problema
 - [ ] Segundo problema
 - [ ] Tercer problema
