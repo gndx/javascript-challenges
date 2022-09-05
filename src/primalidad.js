@@ -1,17 +1,15 @@
 const trialDivision = (number) => {
   // your code here
-  
-  if (number <= 1 || typeof number != 'number') {
-    return 'ERROR: no es un numero valido';
-  }
-  for (let x = 2; x <= number - 1; x++) {
-    if (number % x == 0) {
-      return 'El numero NO es primo';
-    }
-  }
-  return 'EL numero Si es Primo';
+  //se integra el numero
+  if (!Number.isInteger(number) || number < 2)
+    return false;
 
+  for (let i = 2; i < number/2 + 1; i++)
+  {
+    if (number % i == 0)
+      return false;
+  }
 
+  return true;
 }
-
 module.exports = trialDivision;
