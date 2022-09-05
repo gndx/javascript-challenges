@@ -5,6 +5,6 @@ Usuario Platzi: Braulio_Rivas
 
 ## Reto:
 
-- [solved] Primer problema
-- [solved] Segundo problema
-- [solved] Tercer problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
