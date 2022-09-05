@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Jesús David Montero Corzo
+Usuario Platzi: jmontero22
 
 ## Reto:
 
