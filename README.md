@@ -22,7 +22,7 @@ En matemáticas, los números de Fibonacci son los números en la siguiente secu
 npm install
 ```
 
-### test
+### Test
 
 ```
 npm run test
@@ -32,14 +32,14 @@ npm run test
 
 1. Genera una función que devuelve numero factorial que se le pase como parametro. Ejemplo:
 
-```
-5 = 120,
-9 = 362 880,
-15 = 1 307 674 368 000.
-```
+    ```
+    5 = 120,
+    9 = 362 880,
+    15 = 1 307 674 368 000.
+    ```
 
-1. Genera un algoritmo para determinar si un número de entrada es primo o no.
-2. Genera una función que devuelve una secuencia de Fibonacci como una array
+2. Genera un algoritmo para determinar si un número de entrada es primo o no.
+3. Genera una función que devuelve una secuencia de Fibonacci como una array
 
 ### Enviar solución de reto
 
