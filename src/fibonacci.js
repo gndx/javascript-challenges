@@ -1,21 +1,12 @@
 const fibonacci = (n) => {
   // your code here
-  //se crea el array que almacene
-  if (n == 1) return [1];
-  else if (n == 2) return [1, 1];
-  let x = 1, y = 1, z;
-  let array = [1, 1];
-  for (let i = 0; i < n - 2; i++)
-  {
-    //se crea el push
-    c = x + y;
-    array.push(z);
-    x = y;
-    y = z;
+  if (n == 1) return [1]
+  const arr = [1, 1]
+  for (let i = 2; i < n; i++) {
+    arr[i] = arr[i - 1] + arr[i - 2]
+
   }
-
-  return array;
-
+  return arr
 }
 
 module.exports = fibonacci;
