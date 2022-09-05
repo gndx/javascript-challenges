@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Jonathan Torres
+Usuario Platzi: ShonnyAIO
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [COMPLETE] Primer problema
+- [COMPLETE] Segundo problema
+- [COMPLETE] Tercer problema
