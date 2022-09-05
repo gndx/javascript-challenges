@@ -7,4 +7,4 @@ Usuario Platzi:
 
 - [x] Primer problema
 - [x] Segundo problema
-- [ ] Tercer problema
+- [x] Tercer problema

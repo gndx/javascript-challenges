@@ -13,6 +13,7 @@ const dynamicFibo = (n, memo) => {
 
 const fibonacci = (n) => {
   // your code here
+  if (n === 1) return [1];
   let memo = {}
   dynamicFibo(n, memo);
   const result = Object.values(memo)
