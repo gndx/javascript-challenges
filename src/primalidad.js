@@ -1,20 +1,20 @@
 const trialDivision = (n) => {
-  if (typeof numero != 'number') {
+  if (typeof n != 'number') {
     throw TypeError('El argumento debe ser un número.');
 }
 
-if (!Number.isInteger(numero)) {
+if (!Number.isInteger(n)) {
     throw TypeError('El argumento debe ser un número entero.');
 }
 
-if (numero <= 1) {
+if (n <= 1) {
     throw Error('El argumento debe ser un número entero positivo.');
 }
 
-let raiz = Math.floor(Math.sqrt(numero)) + 1;
+let raiz = Math.floor(Math.sqrt(n)) + 1;
 
 for(let i = 2; i < raiz; ++i) {
-    if (numero % i == 0) {
+    if (n % i == 0) {
         return false;
     }
 }

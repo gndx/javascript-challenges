@@ -1,8 +1,8 @@
 const factorial = (number) => {
-  if (n == 0) {
+  if (number == 0) {
     return 1;
 } else {
-    return n * factorial(n - 1);
+    return number * factorial(number - 1);
 }
 }
 
