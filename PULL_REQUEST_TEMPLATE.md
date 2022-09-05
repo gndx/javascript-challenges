@@ -1,10 +1,11 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: *Ricardo Castro*
+
+Usuario Platzi: *ricardocastro.dev*
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [Solved] Primer problema
+- [Solved] Segundo problema
+- [Solved] Tercer problema
