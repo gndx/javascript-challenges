@@ -6,7 +6,7 @@ const factorial = (number) => {
 }
 }
 
-console.log(factorial(5));
+/* console.log(factorial(5)); */
 
 
 module.exports = factorial;
