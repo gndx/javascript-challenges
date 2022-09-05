@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Johannes Gómez
+Usuario Platzi: johannes.gomez
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [X] Primer problema
+- [X] Segundo problema
+- [X] Tercer problema
