@@ -4,7 +4,9 @@
   "description": "javascript-challenges",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "factorial": "node src/factorial.js",
+    "primo": "node src/primalidad.js"
   },
   "repository": {
     "type": "git",
@@ -13,7 +15,9 @@
   "keywords": [
     "JavaScript"
   ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": 
+    "Oscar Barajas <oscar@platzi.com>, Jesus Cuesta Arza <jesuscuesta83@gmail.com>"
+  ,
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gndx/javascript-challenges/issues"
