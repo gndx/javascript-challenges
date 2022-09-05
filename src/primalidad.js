@@ -6,7 +6,7 @@ const trialDivision = (number) => {
   else if (number === 2) {
     return true;
   } else {
-    for (var x = 2; x < number; x++) {
+    for (let x = 2; x < number; x++) {
       if (number % x === 0) {
         return false;
       }
