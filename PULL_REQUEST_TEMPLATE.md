@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Braulio Rivas Abad
+Usuario Platzi: Braulio_Rivas
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [ solved ] Primer problema
+- [ solved ] Segundo problema
+- [ solved ] Tercer problema
