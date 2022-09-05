@@ -5,7 +5,7 @@ const fibonacci = (n) => {
   let n1 = 0;
   let n2 = 1;
   let nSiguiente = 0;
-  let arrayReturn = [0,1];
+  let arrayReturn = [1];
 
   for (let x = 1; x<= n; x ++  ) {
     nSiguiente = n1+n2;

@@ -1,13 +1,14 @@
 const trialDivision = (number) => {
-  if (number <= 1 || typeof number != 'number') {
-    return 'no es valido';
+  const isFloat = Number(number) === number && number % 1 !== 0;
+  if (number <= 1 || number == 4 || typeof number != 'number' || isFloat) {
+    return false;
   }
-  for (let x = 2; x <= number - 1; x++) {
+  for (let x = 2; x <= number/2; x++) {
     if (number % x == 0) {
-      return 'No es primo';
+      return false;
     }
   }
-  return 'Es Primo';
+  return true;
 };
 
 module.exports = trialDivision;
