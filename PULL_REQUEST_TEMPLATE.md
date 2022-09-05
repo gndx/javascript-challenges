@@ -5,6 +5,6 @@ Usuario Platzi:
 
 ## Reto:
 
-- [ ] Primer problema
+- [xs] Primer problema
 - [ ] Segundo problema
 - [ ] Tercer problema
