@@ -17,7 +17,7 @@ const fibonacci = (n) => {
       }
 
       // Iteramos, sumamos e intercambiamos posiciones.
-      // Para una sumatoria de fibbonaci, que empieza en 0.
+      // Para una sumatoria de fibbonaci, que empieza en n == 0.
       for (let i=0; i<(n-1);i++){
         n_aux = n0 + n1;
         n0 = n1;
