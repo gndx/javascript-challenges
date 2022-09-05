@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
 Nombre:
-Usuario Platzi:
+Usuario Platzi:willarevalo
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
