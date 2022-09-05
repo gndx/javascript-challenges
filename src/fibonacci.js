@@ -2,8 +2,12 @@ const fibonacci = (n) => {
   let numbers = [];
 
   // si n es igual a cero entonces devolvera un array vacio
+  if (n === 0) {
+    return numbers;
+  }
+
   while (n !== 0) {
-    // si el array numbers esta vacion entonces agrega 1.
+    // si el array numbers esta vacio entonces agrega 1.
     if (numbers.length === 0) {
       numbers.push(1);
     } else {
