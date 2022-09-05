@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Manuel Ernesto Leigh Ramirez
+Usuario Platzi: manuelleigh
 
 ## Reto:
 
