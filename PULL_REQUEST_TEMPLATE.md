@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Rogelio Alarcon Castillo
+Usuario Platzi: rogelioalarconcastillo5@gmail.com
 
 ## Reto:
 
