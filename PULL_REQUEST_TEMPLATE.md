@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Danny Montenegro
+Usuario Platzi: Danny Montenegro
 
 ## Reto:
 
