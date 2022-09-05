@@ -4,6 +4,6 @@ const factorial = (number) => {
     fac *= i;
   }
   return fac;
-}
+};
 
 module.exports = factorial;
