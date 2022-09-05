@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Jeffersson Seijas
+Usuario Platzi: jefferssonseijas
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [X] Primer problema
+- [X] Segundo problema
+- [X] Tercer problema
