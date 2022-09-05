@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
 Nombre: Danny Montenegro
-Usuario Platzi: Danny Montenegro
+Usuario Platzi: dannymontenegro2011
 
 ## Reto:
 
