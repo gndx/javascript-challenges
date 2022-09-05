@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Gloria Angélica Venta Pérez
+Usuario Platzi: angelicaventap 
 
 ## Reto:
 
