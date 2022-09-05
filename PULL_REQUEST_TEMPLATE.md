@@ -6,5 +6,5 @@ Usuario Platzi: https://platzi.com/p/dani.olg/
 ## Reto:
 
 - [x] Primer problema
-- [ ] Segundo problema
+- [x] Segundo problema
 - [ ] Tercer problema
