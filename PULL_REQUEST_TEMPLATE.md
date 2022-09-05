@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: ESTEBAN CONDORI CUPI    
+Usuario Platzi: nicolas0p0z1@gmail.com , esteban
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [X] Primer problema
+- [X] Segundo problema
+- [X] Tercer problema
