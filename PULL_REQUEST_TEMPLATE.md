@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Brandon Aray
+Usuario Platzi: branalex94
 
 ## Reto:
 
