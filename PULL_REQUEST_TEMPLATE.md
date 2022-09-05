@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Julian Montufar Burbano
+Usuario Platzi: julianmontufar
 
 ## Reto:
 
