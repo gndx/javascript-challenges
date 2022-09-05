@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Miguel Reyes Hernandez
+Usuario Platzi: reyeshernandezm167@gmail.com
 
 ## Reto:
 
