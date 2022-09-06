@@ -7,6 +7,8 @@ const fibonacci = (n) => {
   } else {
 
      let n0 = 0, n1 = 1;
+     // Leí tarde que debía enviarse un array.
+     let array_fibo = [n1];
      // Para que tome los casos especiales 0 y 1.
      let n_aux = n;
     
@@ -20,12 +22,13 @@ const fibonacci = (n) => {
       // Para una sumatoria de fibbonaci, que empieza en n == 0.
       for (let i=0; i<(n-1);i++){
         n_aux = n0 + n1;
+        array_fibo.push(n_aux)
         n0 = n1;
         n1 = n_aux;
       }
     
       // Retornamos el valor de la posición en la sumatoria.
-      return n_aux
+      return array_fibo
   }
 }
 
