@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre:Martin Javier Bronzino   
+Usuario Platzi:martinbronzino@gmail.com
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
