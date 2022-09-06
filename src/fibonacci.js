@@ -1,5 +1,5 @@
 const fibonacci = (n) => {
- if (typeof(num) !== 'number') {
+ if (typeof(n) !== 'number') {
        // Generamos e informamos el error para datos no númericos.
       const NON_NUMERIC_ERROR = "El dato ingresado no es un número."
       console.error(NON_NUMERIC_ERROR)
@@ -12,7 +12,7 @@ const fibonacci = (n) => {
     
      // Para los números negativos. En caso de que se quiera realizar algun proceso alternativo.
      // Indefinido por ahora.
-     if (fact_num < 0){
+     if (n < 0){
           return undefined
       }
 
