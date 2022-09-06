@@ -9,8 +9,5 @@ function factorial(number) {
   
 }
 
-let number = 10;
-total = factorial(number)
-console.log("The factorial of " + number + " is " + total);
 
 module.exports = factorial;

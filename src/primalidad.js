@@ -12,8 +12,5 @@ function trialDivision(number) {
 }
 
 }
-var number = 1.3;
-isPrime= trialDivision(number)
-console.log(isPrime);
 
 module.exports = trialDivision;

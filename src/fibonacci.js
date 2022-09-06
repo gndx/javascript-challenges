@@ -4,20 +4,8 @@ function fibonacci(number){
   fiboarray[1]=1;
   for (var i = 2; i <= number; i++) {
     fiboarray[i] = fiboarray[i - 2] + fiboarray[i - 1];
-    // console.log(i +":"+ fiboarray[i]);
   }
-
-  // console.log("fiboarray:"+fiboarray);
-  let newarray = fiboarray.slice(1,10);
-  console.log("fiboarray:"+newarray);
-
+  let newarray = fiboarray.slice(1,11);
   return newarray;
   }
-
-  
-  var f = fibonacci(10);
-  // var newarray = f.slice[0];
-  // console.log("newArray: "+newarray);
-console.log(f);
-
 module.exports = fibonacci;
