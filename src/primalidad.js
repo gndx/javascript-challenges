@@ -35,6 +35,4 @@ const trialDivision = (number) => {
     return is_prime
 }
 
-console.log(trialDivision(0.5))
-
 module.exports = trialDivision;
