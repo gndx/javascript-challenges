@@ -1,5 +1,5 @@
 const factorial = (number) => {
-    if (Number.isInteger(number)) {
+    if (!Number.isInteger(number)) {
          // Generamos e informamos el error para datos no númericos.
         const NON_NUMERIC_ERROR = "El dato ingresado no es un número entero."
         console.error(NON_NUMERIC_ERROR)
