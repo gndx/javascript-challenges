@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: nahum
+Usuario Platzi: nahum_1_121@hotmail.com
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
