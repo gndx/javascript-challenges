@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Jairo Saul Salas Quiñones
+Usuario Platzi: @JairoSaulProDev
 
 ## Reto:
 

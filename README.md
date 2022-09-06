@@ -4,7 +4,7 @@
 
 En matemáticas, el factorial de un número entero no negativo 'n', es el producto de la multiplicación de todos los números enteros positivos menores o iguales que 'n'. Por ejemplo:
 
-5 = 5 _ 4 _ 3 _ 2 _ 1 = 120
+5 = 5 * 4 * 3 * 2 * 1 = 120
 
 ### 2 Prueba de primalidad
 
