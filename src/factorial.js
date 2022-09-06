@@ -1,5 +1,10 @@
 const factorial = (number) => {
-  // your code here
+  let result = 1
+  while(number){
+    result *= number
+    number-=1
+  }
+  return result
 }
 
 module.exports = factorial;
