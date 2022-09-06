@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Gerardo Contreras
+Usuario Platzi: gecontreras
 
 ## Reto:
 
