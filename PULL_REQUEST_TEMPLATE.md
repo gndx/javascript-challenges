@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: AGUSTIN VILLAGRAN       
+Usuario Platzi: AGUSITNVILLAGRAN98
 
 ## Reto:
 
