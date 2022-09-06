@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: frank ramirez
+Usuario Platzi: 
 
 ## Reto:
 
