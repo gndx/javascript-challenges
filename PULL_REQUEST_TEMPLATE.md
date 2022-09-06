@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Max Ferrer Cabanillas Salas
+Usuario Platzi: maxcabanillass
 
 ## Reto:
 
