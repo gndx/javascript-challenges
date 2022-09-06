@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Eber Laurente
+Usuario Platzi: Eber.laurente
 
 ## Reto:
 
