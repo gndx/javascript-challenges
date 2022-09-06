@@ -3,7 +3,7 @@ const fibonacci = (n) => {
     return [1]
   } else {
     let result = [1, 1];
-    for (var i = 2; i < n; i++) {
+    for (let i = 2; i < n; i++) {
       result.push(result[i-2] + result[i-1]);
     }
     return result;
