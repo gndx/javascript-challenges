@@ -1,10 +1,9 @@
 const factorial = (number) => {
-    let result = number;
-    if (number != 1) {
-      number -= 1;
-      result *= factorial(number);
+    let result = 1;
+    for (let index = 1; index <= number; index++) {
+        result *= index;
     }
     return result;
-  }
+};
 
 module.exports = factorial;
