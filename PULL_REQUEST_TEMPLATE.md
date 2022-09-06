@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Carlos Enrique Navia Torres
+Usuario Platzi: Navitorcent
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
