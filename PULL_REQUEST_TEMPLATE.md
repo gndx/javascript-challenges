@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Nicolas Alberto Arias Otalora
+Usuario Platzi: Albeto_Arias_x64
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [true] Primer problema
+- [true] Segundo problema
+- [true] Tercer problema
