@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Baltazar Gonzalez
+Usuario Platzi: Baltazar Gonzalez
 
 ## Reto:
 
