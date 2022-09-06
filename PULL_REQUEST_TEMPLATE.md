@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre:Esteban Cuadra Moreno
+Usuario Platzi: Mexbalia
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [X] Primer problema
+- [X] Segundo problema
+- [X] Tercer problema
