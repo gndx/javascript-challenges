@@ -4,7 +4,6 @@ const trialDivision = (number) => {
   }  else {
     for (i = 3; i <= Math.sqrt(number); i += 2) {
       let operation = number % i
-      console.log("operation " + operation)
       if ((operation == 0) || (Number.isInteger(operation) == false))
         return false;
     }
