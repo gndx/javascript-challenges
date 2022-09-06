@@ -1,9 +1,20 @@
 const fibonacci = (n) => {
-  // your code here
-  if (n <= 1) return n;
+  var i;
+  var fib = [1]; // Initialize array!
 
-  return fib(n-1) + fib(n-2);
-
+  if (n == 1) return fib;
+  
+  else{
+    for(i=1; i<n; i++) {
+      
+      if (i==1) fib.push(1);
+      else {
+        fib.push( fib[fib.length-2] + fib[fib.length-1] );
+      }
+    }
+    return fib;
+  }
+  
 }
 
 module.exports = fibonacci;
