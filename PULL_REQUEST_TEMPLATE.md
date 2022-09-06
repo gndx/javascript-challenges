@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
 Nombre: nahum
-Usuario Platzi: nahum.1.121@gmail.com
+Usuario Platzi: nahum_1_121@hotmail.com
 
 ## Reto:
 
