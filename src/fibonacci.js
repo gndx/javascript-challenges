@@ -1,5 +1,5 @@
 const fibonacci = (n) => {
- if (Number.isInteger(n)) {
+ if (!Number.isInteger(n)) {
        // Generamos e informamos el error para datos no númericos.
       const NON_NUMERIC_ERROR = "El dato ingresado no es un número entero."
       console.error(NON_NUMERIC_ERROR)
