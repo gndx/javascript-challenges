@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Jairo Saul Salas Quiñones
+Usuario Platzi: @JairoSaulProDev
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [&#10004;] Primer problema
+- [&#10004;] Segundo problema
+- [&#10004;] Tercer problema
