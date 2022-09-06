@@ -1,12 +1,12 @@
 const factorial = (number) => {
-    if (typeof(num) !== 'number') {
+    if (Number.isInteger(number)) {
          // Generamos e informamos el error para datos no númericos.
-        const NON_NUMERIC_ERROR = "El dato ingresado no es un número."
+        const NON_NUMERIC_ERROR = "El dato ingresado no es un número entero."
         console.error(NON_NUMERIC_ERROR)
         return Error(NON_NUMERIC_ERROR)
     } else {
         //variable auxiliar y variable con el resultado.
-        let aux_num=num, fact_num=num;
+        let aux_num=number, fact_num=number;
 
         // Para los números negativos. En caso de que se quiera realizar algun proceso alternativo.
         // Indefinido por ahora.
