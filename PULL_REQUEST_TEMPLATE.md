@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre:Daniel Ángel Barreto
+Usuario Platzi:DanielGeek
 
 ## Reto:
 
