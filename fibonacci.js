@@ -6,6 +6,8 @@ const fibonacci = (n) => {
 	} else {
 	  arr.push(arr[i - 1] + arr[i - 2]);
 	}
+
+
   }
   return arr;
 };
