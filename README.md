@@ -38,8 +38,19 @@ npm run test
 15 = 1 307 674 368 000.
 ```
 
-1. Genera un algoritmo para determinar si un número de entrada es primo o no.
-2. Genera una función que devuelve una secuencia de Fibonacci como una array
+2. Genera un algoritmo para determinar si un número de entrada es primo o no.
+
+```
+5 = true,
+9 = false,
+17 = true, 
+```
+
+3. Genera una función que devuelve una secuencia de Fibonacci como una array
+
+```
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...]
+```
 
 ### Enviar solución de reto
 
