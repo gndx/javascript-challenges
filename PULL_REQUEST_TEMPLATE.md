@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Max Ferrer Cabanillas Salas
+Usuario Platzi: maxcabanillass
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [v] Primer problema
+- [v] Segundo problema
+- [v] Tercer problema
