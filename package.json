@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/gndx/javascript-challenges#readme",
   "devDependencies": {
-    "jest": "29.0.1"
+    "jest": "^29.0.1"
   },
   "jest": {
     "verbose": true,
