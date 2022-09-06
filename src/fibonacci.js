@@ -2,10 +2,10 @@ const fibonacci = (n) => {
     let fibonacci_array = [];
     if (n === 1) {
         fibonacci_array = [1];
-    } 
+    }
     if (n === 2) {
-        fibonacci_array = [1, 1]; 
-    } 
+        fibonacci_array = [1, 1];
+    }
     let i = 2;
     if (i < n) {
         fibonacci_array = [1, 1]
