@@ -1,8 +1,8 @@
 const factorial = (number) => {
-  let valor = number;
-  for( let i = number-1; i > 0; i--  ) {
-    let multiplicacion = valor * i;
-    valor = multiplicacion;
+  // your code here
+  if(number <= 1) return 1
+  else {
+    return number * factorial(number - 1)
   }
 }
 module.exports = factorial;
