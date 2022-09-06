@@ -3,18 +3,21 @@ const trialDivision= (number) => {
 
   var div, result;
   
-  if (number<2)
-    result = false;
-  else
+  
+  if (number>2 && Number.isInteger(number)){
     result = true;
-
-  for(div=2;div<(number/2);div++){
-    if(number%div==0) //is divider
-    {
-      result=false;
-      break; 
+    for(div=2;div<(number/2);div++){
+      if(number%div==0) //is divider
+      {
+        result=false;
+        break; 
+      }
     }
   }
+  else
+    result = false;
+
+ 
   return result;
 
 }
