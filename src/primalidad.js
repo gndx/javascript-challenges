@@ -3,7 +3,10 @@ const trialDivision= (number) => {
 
   var div, result;
   
-  result = true;
+  if (number<2)
+    result = false;
+  else
+    result = true;
 
   for(div=2;div<(number/2);div++){
     if(number%div==0) //is divider
