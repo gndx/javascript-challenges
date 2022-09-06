@@ -27,7 +27,7 @@ const fibonacci = (n) => {
         n1 = n_aux;
       }
     
-      // Retornamos el valor de la posición en la sumatoria.
+      // Retornamos el array de factores de la secuencia fibonacci, hasta la posición dada.
       return array_fibo
   }
 }
