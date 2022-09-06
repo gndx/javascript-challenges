@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Felipe Torrejon
+Usuario Platzi: fip3torrejon
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [+] Primer problema
+- [+] Segundo problema
+- [+] Tercer problema
