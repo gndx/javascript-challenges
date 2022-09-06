@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Andre Huaman Yovera
+Usuario Platzi: Tathata
 
 ## Reto:
 
