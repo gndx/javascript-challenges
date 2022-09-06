@@ -1,5 +1,5 @@
 const fibonacci = require('../fibonacci.js');
-
+console.log("%0",fibonacci(1));
 describe('fibonacci', () => {
   it('Debe calcular fibonacci correctamente', () => {
     expect(fibonacci(1)).toEqual([1]);
