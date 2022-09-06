@@ -5,10 +5,9 @@ const trialDivision = (number) => {
         console.error(NON_NUMERIC_ERROR)
         return Error(NON_NUMERIC_ERROR)
     } else {
-         // Para los números negativos. En caso de que se quiera realizar algun proceso alternativo.
-        // Indefinido por ahora.
-        if (number <= 0){
-            return undefined
+         // Excluimos los números negativos y flotantes.
+        if ((number <= 0) || (!Number.isInteger(number))){
+            return false
         }
 
         // Usamos la Criba de Eratostenes.
