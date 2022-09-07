@@ -1,11 +1,11 @@
-const factorial = require('../factorial.js');
+const factorialR = require('../factorial.js');
 
 describe('factorial', () => {
-  it('Debe calcular el numer factorial', () => {
-    expect(factorial(0)).toBe(1);
-    expect(factorial(1)).toBe(1);
-    expect(factorial(5)).toBe(120);
-    expect(factorial(8)).toBe(40320);
-    expect(factorial(10)).toBe(3628800);
+  it('Debe calcular el numero factorial', () => {
+    expect(factorialR(0)).toBe(1);
+    expect(factorialR(1)).toBe(1);
+    expect(factorialR(5)).toBe(120);
+    expect(factorialR(8)).toBe(40320);
+    expect(factorialR(10)).toBe(3628800);
   });
 });
