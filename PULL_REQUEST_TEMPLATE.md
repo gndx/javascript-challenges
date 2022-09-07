@@ -1,9 +1,9 @@
 ## DESCRIPTION
 
 Nombre:
-Usuario Platzi:
+Usuario
 
-## Reto:
+## Reto
 
 - [ ] Primer problema
 - [ ] Segundo problema
