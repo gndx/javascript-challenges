@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Felipe Huerta Aros
+Usuario Platzi: hueeerta
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
