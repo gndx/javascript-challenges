@@ -1,10 +1,11 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Francisco Javier Solis Martinez
+
+Usuario Platzi: FranciscoSolis
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [✅] Primer problema
+- [✅] Segundo problema
+- [✅] Tercer problema
