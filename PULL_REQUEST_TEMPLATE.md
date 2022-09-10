@@ -1,7 +1,7 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Roger David Alba Ortega
+Usuario Platzi: rogerdavidalbaortega@gmail.com
 
 ## Reto:
 
