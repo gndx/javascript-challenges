@@ -39,6 +39,7 @@ npm run test
 ```
 
 2. Genera un algoritmo para determinar si un número de entrada es primo o no.
+
 3. Genera una función que devuelve una secuencia de Fibonacci como una array
 
 ### Enviar solución de reto
